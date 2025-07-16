@@ -79,7 +79,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: www.linkedin.com/in/salmaan-khan1
+[LinkedIn](https://www.linkedin.com/in/salmaan-khan1)
 
 
 <!--
