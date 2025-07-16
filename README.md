@@ -3,11 +3,17 @@
 <h2>👨‍💻 Data Aanalyst Projects</h2>
 
 - <b>Sales & Financial Performance Analysis | AtliQ Hardware </b>
-  - Excel using power query(https://github.com/joshmadakor1/Algorithms-Practice)
+- [View Project](https://github.com/SalmaankhanAnalyst/Sales-Financial-Aanalyst/tree/main)
   
 
 <h2>Certification</h2>
-   - Excel: Mother of Business Intelligence(https://codebasics.io/certificate/CB-51-438534)
+ 🎓 Certificated
+
+- **Excel: Mother of Business Intelligence**  
+  🔗 [View Certification](https://codebasics.io/certificate/CB-51-438534)
+
+
+   
 <h2>🔥 Project Summary </h2>
 
 “I analyzed AtliQ Hardware’s 3-year sales and financial data using Excel and Power Query to identify growth trends, profitability, and underperforming markets. The final output was an interactive dashboard enabling management to quickly evaluate performance and make informed decisions.”
@@ -72,10 +78,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: www.linkedin.com/in/salmaan-khan1
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
